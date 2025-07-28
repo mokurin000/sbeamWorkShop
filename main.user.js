@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Unlock adult content of steam for Chinese region users
 // @match       https://store.steampowered.com/account/preferences*
-// @version     1.0.1
+// @version     1.0.2
 // @author      mokurin000
 // @downloadURL https://cdn.jsdmirror.com/gh/mokurin000/sbeamWorkShop@main/main.user.js
 // ==/UserScript==
