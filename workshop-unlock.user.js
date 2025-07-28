@@ -1,10 +1,15 @@
 // ==UserScript==
-// @name        Unlock adult content of steam for Chinese region users
+// @name        Remove restriction of steam workshop
+// @name:zh-CN 移除steam创作工坊限制
+// @description Unlock adult content of steam for Chinese region users
+// @description:zh-CN 解除steam国区创作工坊内容限制
 // @match       https://store.steampowered.com/account/preferences*
 // @version     1.0.2
 // @author      mokurin000
-// @downloadURL https://cdn.jsdmirror.com/gh/mokurin000/sbeamWorkShop@master/workshop-unlock.user.js
 // @license MIT
+// @namespace https://greasyfork.org/users/295326
+// @downloadURL https://update.greasyfork.org/scripts/543838/Remove%20restriction%20of%20steam%20workshop.user.js
+// @updateURL https://update.greasyfork.org/scripts/543838/Remove%20restriction%20of%20steam%20workshop.meta.js
 // ==/UserScript==
 
 window.addEventListener('load', () => {
