@@ -11,15 +11,15 @@
 // ==/UserScript==
 
 window.addEventListener('load', () => {
-  // locate hidden div block of secret control
+  // Locate hidden div block of secret control
   const hidden_divs = document.querySelectorAll("div.account_setting_not_customer_facing");
   
-  // make them visible, optional
+  // Make them visible, optional
   for (let div of hidden_divs) {
     div.setAttribute("class", "preference_row");
   }
   
-  // actually enable settings
+  // Actually enable settings
   for (let id of [4, 3]) {
     for (let suffix of ["store", "community"]) {
       const selector = `input#descriptor_${id}_${suffix}`;
