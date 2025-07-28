@@ -3,7 +3,7 @@
 // @match       https://store.steampowered.com/account/preferences*
 // @version     1.0.2
 // @author      mokurin000
-// @downloadURL https://cdn.jsdmirror.com/gh/mokurin000/sbeamWorkShop@main/workshop-unlock.user.js
+// @downloadURL https://cdn.jsdmirror.com/gh/mokurin000/sbeamWorkShop@master/workshop-unlock.user.js
 // @license MIT
 // ==/UserScript==
 
