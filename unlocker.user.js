@@ -3,7 +3,7 @@
 // @match       https://store.steampowered.com/account/preferences*
 // @version     1.0.2
 // @author      mokurin000
-// @downloadURL https://cdn.jsdmirror.com/gh/mokurin000/sbeamWorkShop@main/main.user.js
+// @downloadURL https://cdn.jsdmirror.com/gh/mokurin000/sbeamWorkShop@main/unlocker.user.js
 // ==/UserScript==
 
 window.addEventListener('load', () => {
