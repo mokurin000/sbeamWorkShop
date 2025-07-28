@@ -7,9 +7,7 @@
 // @version     1.0.2
 // @author      mokurin000
 // @license MIT
-// @namespace https://greasyfork.org/users/295326
-// @downloadURL https://update.greasyfork.org/scripts/543838/Remove%20restriction%20of%20steam%20workshop.user.js
-// @updateURL https://update.greasyfork.org/scripts/543838/Remove%20restriction%20of%20steam%20workshop.meta.js
+// @downloadURL https://cdn.jsdmirror.cn/gh/mokurin000/sbeamWorkShop@master/workshop-unlock.user.js
 // ==/UserScript==
 
 window.addEventListener('load', () => {
